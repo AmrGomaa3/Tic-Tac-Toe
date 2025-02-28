@@ -1,11 +1,11 @@
 # **Tic Tac Toe Game**
 ---
-This is a python script to create a tic tac toe game using OOP principles.
-The script was then turned into an exe file.
-Below is a detailed explanation of how the script was written:
+- This is a python script to create a tic tac toe game using OOP principles.
+- The script was then turned into an exe file.
+- Below is a detailed explanation of how the script was written:
 ---
 ### Importing os library
-os library was first imported then used to create a `clear_screen()` function which will be used in the script multiple times.
+- os library was first imported then used to create a `clear_screen()` function which will be used in the script multiple times.
 ---
 ### Creating a Player class
 - Created a player class with setter functions for name and symbol.
@@ -27,8 +27,8 @@ os library was first imported then used to create a `clear_screen()` function wh
 - Created functions to take input from players and add them to Player class, Menu class and Board class.
 - Created functions to check conditions for draw or win then display the result.
 ---
-The game is CLI-Based.
-The script effectively uses the `clear_screen()` function to ensure a clean interface when moving from one menu to the other.
-Used auto-py-to-exe to create an exe file.
-Feel free to contact me via email or Linkedin which are available on my profile for inquiries or suggestions!
-Have fun playing the game :)
+- The game is CLI-Based.
+- The script effectively uses the `clear_screen()` function to ensure a clean interface when moving from one menu to the other.
+- Used auto-py-to-exe to create an exe file.
+- Feel free to contact me via email or Linkedin which are available on my profile for inquiries or suggestions!
+- Have fun playing the game :)
